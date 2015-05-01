@@ -21,19 +21,19 @@ Corrections performed in the 3rd submission:
 - Correlation between Total and Free SO2)
 
 
-- Although, I met the specifications for project readibility, I have added appropriate saces before and after '=' sign.
+- Although, I met the specifications for project readability, I have added appropriate spaces before and after '=' sign.
 
 - Axes limitation/scaling and jitter were used on plots where required in order to better represent and analyze the data.
 
 - I have reduced the number of variables going into the ggpairs plot and also used short descriptive aliases for ease of viewing. I also removed the axes grid from the correlation boxes.
 
-- Added the position = 'dodge' feature to the histograms for Quality with tast and Quality wih taste due to pH for both wine types.
+- Added the position = 'dodge' feature to the histograms for Quality with taste and Quality with taste due to pH for both wine types.
 
 - A regression line is now shown over the scatter plot of alcohol and pH to further emphasize the relation between the features.
 
 - Alcohol and Quality with Taste for wine charts were converted from scatter to box plots and facet wrap per taste bucket was applied for ease of analysis.
 
-- In the Bivariate section, correlation coefficient calculation or regression lines were added appropriately to emphasize the relation between two features.
+- In the Bi-variate section, correlation coefficient calculation or regression lines were added appropriately to emphasize the relation between two features.
 
 - Final Plot 2 and 3 in the 'Plot and Summary' sections were improved to include both wine types and correlation/summary tables accompanying plot 3 for in depth analysis.
 
